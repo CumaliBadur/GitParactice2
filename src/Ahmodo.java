@@ -1,6 +1,6 @@
 public class Ahmodo {
     public static void main(String[] args) {
-        //ahmado
+        //ahmado deneme yaoildi degisiklik
 
     }
 }
