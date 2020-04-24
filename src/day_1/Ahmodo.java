@@ -1,8 +1,8 @@
 package day_1;
 
-public class cool3 {
+public class Ahmodo {
     public static void main(String[] args) {
+        //ahmado
 
-        //dddddd
     }
 }

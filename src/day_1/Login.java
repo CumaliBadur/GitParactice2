@@ -1,6 +1,8 @@
-public class Ahmodo {
-    public static void main(String[] args) {
-        //ahmado
+package day_1;
 
+public class Login {
+    public static void main(String[] args) {
+
+        //dddddd
     }
 }
